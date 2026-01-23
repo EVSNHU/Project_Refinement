@@ -26,10 +26,9 @@ This prototype utilizes a hybrid **C++ & Blueprint** workflow to maximize perfor
 * **Animation:** Widget animations are driven by state changes to create smooth, "eased" transitions typical of older operating systems.
 
 ## 🔧 Installation & Setup
-1.  Clone the repository.
-2.  Right-click `RefinementTerminal.uproject` and select **Generate Visual Studio Project Files**.
-3.  Open the solution in Visual Studio and compile for **Development Editor**.
-4.  Launch the project and press **Play**.
+1. Go to ItchIO: https://schwiftygg.itch.io
+2. Download and Unzip.
+3. Press the Unreal .exe and play!
 
 ---
 *Note: This is a non-commercial educational prototype inspired by the TV show Severance. All concepts are used for portfolio demonstration purposes.*
