@@ -3,6 +3,7 @@
 ### A Diegetic UI Prototype in Unreal Engine 5
 **Inspired by the retro-corporate aesthetic of *Severance*.**
 
+![Project_Ref_Promo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e084c748-dbde-4103-a780-322bcb6c1033)
 
 ## 📖 Project Overview
 This project is a technical showcase focused on **User Interface (UI) architecture** and **Widget Logic** within Unreal Engine 5. 
