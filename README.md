@@ -33,3 +33,7 @@ This prototype utilizes a hybrid **C++ & Blueprint** workflow to maximize perfor
 
 ---
 *Note: This is a non-commercial educational prototype inspired by the TV show Severance. All concepts are used for portfolio demonstration purposes.*
+
+## Note
+
+This repository contains C++ source code only. Full project includes Blueprint assets, materials, and animations not included in this repo due to size constraints.
